@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/agfal/AndroidStudioProjects/LayoutPractice/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1505" />
+        <entry key="..\:/Users/agfal/AndroidStudioProjects/LayoutPractice/app/src/main/res/drawable/rounde_corner2.xml" value="0.1505" />
+        <entry key="..\:/Users/agfal/AndroidStudioProjects/LayoutPractice/app/src/main/res/drawable/rounded_corner.xml" value="0.1545" />
+        <entry key="..\:/Users/agfal/AndroidStudioProjects/LayoutPractice/app/src/main/res/drawable/rounded_corner3.xml" value="0.1505" />
         <entry key="..\:/Users/agfal/AndroidStudioProjects/LayoutPractice/app/src/main/res/layout/activity_main.xml" value="0.2672239108409321" />
       </map>
     </option>
